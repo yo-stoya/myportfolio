@@ -16,10 +16,8 @@ const Hero = () => {
 
                     <div className="mt-4 max-w-4xl">
                         <p className="text-secondary text-[15px] sm:text-[17px] leading-[30px]">
-                            A striving software developer who loves creating efficient and user-friendly solutions
-                            that
-                            meet the needs
-                            of businesses and individuals.
+                            A junior software developer who loves creating efficient and user-friendly solutions
+                            that meet the needs of businesses and individuals.
                             I recently completed Java Full-Stack Program at SoftUni and took an internship in Rewe
                             Digital Bulgaria, where I gained a solid foundation
                             in programming and software development principles. <span className="text-white">Let's build something cool!</span>
