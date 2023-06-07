@@ -18,7 +18,7 @@ const Hero = () => {
                         <p className="text-secondary text-[15px] sm:text-[17px] leading-[30px]">
                             A junior software developer who loves creating efficient and user-friendly solutions
                             that meet the needs of businesses and individuals.
-                            I recently completed Java Full-Stack Program at SoftUni and took an internship in Rewe
+                            I recently completed SoftUni Java Full-Stack Program and took an internship in Rewe
                             Digital Bulgaria, where I gained a solid foundation
                             in programming and software development principles. <span className="text-white">Let's build something cool!</span>
                         </p>
